@@ -21,6 +21,12 @@ Since 2023 I've mostly built maps: web GIS for wind-park planning at Caeli Wind,
         <img alt="Molecula: a medicines chatbot that answers with real 3D molecular structures" src="assets/molecula-light.svg" width="100%">
       </picture></a>
       <sub><a href="https://molecula.dkwebsite.de">Live demo</a> &nbsp; <a href="https://dkwebsite.de/projects/molecula">Case study</a></sub>
+      <br><br>
+      <a href="https://github.com/DannyKuk/claude-statusline"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/claude-statusline-dark.svg">
+        <img alt="claude-statusline: a compact status line for Claude Code" src="assets/claude-statusline-light.svg" width="100%">
+      </picture></a>
+      <sub><a href="https://github.com/DannyKuk/claude-statusline#install">Install</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/DannyKuk/ai-interview"><picture>
@@ -28,16 +34,7 @@ Since 2023 I've mostly built maps: web GIS for wind-park planning at Caeli Wind,
         <img alt="AI Interviewer: practise a job interview with a 3D interviewer who has read your CV" src="assets/ai-interview-light.svg" width="100%">
       </picture></a>
       <sub><a href="https://dkwebsite.de/projects/ai-interviewer">Case study</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/DannyKuk/claude-statusline"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/claude-statusline-dark.svg">
-        <img alt="claude-statusline: a compact status line for Claude Code" src="assets/claude-statusline-light.svg" width="100%">
-      </picture></a>
-    </td>
-    <td width="50%" valign="top">
+      <br><br>
       <a href="https://dkwebsite.de/#projects"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/more-dark.svg">
         <img alt="More on my website: EasyPointment, PillRemind and two sites for dog businesses" src="assets/more-light.svg" width="100%">
